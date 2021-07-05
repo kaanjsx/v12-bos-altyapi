@@ -7,7 +7,7 @@ client.on('ready', () => {
   console.log("hazırım!")
  client.user.setPresence({
     activity: {
-      name: `discord.gg/cmd`,
+      name: `discord.gg/delimine`,
       type: "COMPETING"
     },
     status: "idle"
