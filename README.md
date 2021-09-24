@@ -19,4 +19,4 @@ Discord = [Ghost Development](https://discord.gg/delimine)
 -------
 Youtube = [Kaan](https://www.youtube.com/c/kaanxd)
 
-Bana ulaşmak için = [kaan#1337](https://discord.com/users/837022535266336819)
+Bana ulaşmak için = [kaan#1337](https://discord.com/users/696407272145813505)
