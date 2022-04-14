@@ -15,7 +15,7 @@ Gine aynı şekilde maine geliyoruz ve alt satırın bi üstündeki `//` yazan y
 
 -----
 
-Discord = [Ghost Development](https://discord.gg/delimine)
+Discord = [Ghost Development](https://discord.gg/KCfCMKnFzK)
 -------
 Youtube = [Kaan](https://www.youtube.com/c/kaanxd)
 
